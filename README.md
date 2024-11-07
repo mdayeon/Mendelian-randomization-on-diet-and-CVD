@@ -17,6 +17,8 @@ MVMR_diet_CVD_using_both_mvmr_2samplemr.R
 
 MVMR_MR-RAPS_diet_CVD_using_both_mvmr_2samplemr.R
 
+Post_hoc_power_analysis_using_mRnd.R
+
 Table of genetic instruments for MR-RAPS analysis
 
 Table of genetic instruments for UVMR and MVMR analyses
